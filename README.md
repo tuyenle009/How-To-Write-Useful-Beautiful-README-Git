@@ -59,7 +59,7 @@ By following these steps, you can create a README that not only provides essenti
 
 - **Carbon**: [Carbon](https://carbon.now.sh)
   - A tool to create and share beautiful images of your source code, ideal for presentations and social media sharing.
-<img src="https://github.com/user-attachments/assets/79e9e0a2-b52e-457d-9ced-a7773064f31f"  height="250" alt="joe">
+    <img src="https://github.com/user-attachments/assets/79e9e0a2-b52e-457d-9ced-a7773064f31f"  height="250" alt="joe">
 
 ### Cheat Sheets:
 - **Markdown Guide**: [Markdown](https://www.markdownguide.org/cheat-sheet/)
@@ -76,8 +76,7 @@ By following these steps, you can create a README that not only provides essenti
 ### Markdown Editors:
 - **Dillinger.io**: [Dillinger.io](https://dillinger.io/)
   - An online Markdown editor with features like auto-save, word count, character count, scroll sync, and various export/import options.
-![Screenshot from 2024-07-17 06-19-02](https://github.com/user-attachments/assets/4dd50e19-b2e0-4930-aef6-e47391d15b60)
-<img src="https://github.com/user-attachments/assets/4dd50e19-b2e0-4930-aef6-e47391d15b60"  height="250" alt="joe">
+    <img src="https://github.com/user-attachments/assets/4dd50e19-b2e0-4930-aef6-e47391d15b60"  height="250" alt="joe">
 
 
 - **Editor.md**: [Mediter](https://pandao.github.io/editor.md/en.html)
