@@ -95,6 +95,7 @@ By following these steps, you can create a README that not only provides essenti
 - **Markdownify**: [Markdownify](https://github.com/amitmerchant1990/electron-markdownify)
   - A minimal Markdown editor built with Electron, featuring a clean interface and essential Markdown editing capabilities.
 <img src="https://github.com/user-attachments/assets/b6a22472-ae17-47d3-af7f-a5e5907f30df"  height="300" alt="joe">
+
 - **Clairvoyant**: [Clairvoyant](https://github.com/amitmerchant1990/electron-markdownify)
   - It seems there might be a mix-up with the links as both point to Markdownify. Clairvoyant is typically a name associated with predictive analytics tools.
 <img src="https://github.com/user-attachments/assets/eda2a3d2-8c28-468c-b8e3-ae44d7ecd7a2"  height="300" alt="joe">
