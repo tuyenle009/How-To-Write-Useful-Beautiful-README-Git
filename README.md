@@ -104,7 +104,7 @@ By following these steps, you can create a README that not only provides essenti
 
 - **Colorls**: [Colorls](https://github.com/athityakumar/colorls)
   - A Ruby gem that beautifies the `ls` command with color and icons, making directory listings more readable.
-    ![colorls](https://github.com/user-attachments/assets/dfe58185-e3ed-48a2-af02-835f4d3d9e86)
+  ![colorls](https://github.com/user-attachments/assets/dfe58185-e3ed-48a2-af02-835f4d3d9e86)
 
 These resources and tools can greatly enhance your workflow, from creating beautiful code snippets and README files to generating banners and securing your system.
 
