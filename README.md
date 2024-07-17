@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://github.com/user-attachments/assets/b983582f-5d84-4eee-a102-6e31f35ad174" alt="ReadMe">
+<img src="https://github.com/user-attachments/assets/b983582f-5d84-4eee-a102-6e31f35ad174" height="300" alt="ReadMe">
 </h1>
 
 # Create Beautiful and Useful ReadMe
@@ -92,10 +92,12 @@ By following these steps, you can create a README that not only provides essenti
 
 - **Stronghold**: [Stronghold](https://github.com/alichtman/stronghold)
   - A tool to secure your macOS system by automating the application of security settings and hardening your system.
+    
     <img src="https://github.com/user-attachments/assets/ecc9298d-5c78-41d0-8c2f-4caee4237efa"  height="300" alt="joe">
 
 - **Markdownify**: [Markdownify](https://github.com/amitmerchant1990/electron-markdownify)
   - A minimal Markdown editor built with Electron, featuring a clean interface and essential Markdown editing capabilities.
+    
     <img src="https://github.com/user-attachments/assets/b6a22472-ae17-47d3-af7f-a5e5907f30df"  height="300" alt="joe">
 
 - **Clairvoyant**: [Clairvoyant](https://github.com/amitmerchant1990/electron-markdownify)
